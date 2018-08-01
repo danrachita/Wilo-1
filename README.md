@@ -26,3 +26,5 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz    
 **WILO**: WehpMmLhA77MsqYA3eDwL2uMka6K4sXsLk  
+  
+[`home`](https://github.com/robinadaptor)  [`announcement`](https://github.com/robinadaptor/announcement)  [`contact`](https://github.com/robinadaptor/POS-helper)
