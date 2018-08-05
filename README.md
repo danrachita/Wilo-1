@@ -10,7 +10,7 @@ algorithm	: Quark
 block reward : 200 wilo (staking 30%, masternode 70%)  
 5000 wilo required coins for masternode  
 blocktime : 60 sec  
-total supply : 61,000,000  
+max supply limit : ~ 61,000,000  
 genesis date	: 11th May, 2018  
   
 ***
@@ -19,8 +19,7 @@ genesis date	: 11th May, 2018
 exchanges : https://graviex.net/markets/wilobtc  
 masternode online : https://masternodes.online/currencies/WILO/  
   
-[`wallet`](https://github.com/robinadaptor/wilo-wallet)     
-
+[`wallet`](https://github.com/robinadaptor/wilo-wallet)  [`discord`](https://discord.gg/SqqWuT)  
 ***
 ## Donations 
   
